@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_search
+drawable ic_x
+id et_search
+id fr
+id imageView
+id imageView2
+id imageView3
+id imageView4
+id main
+id nav_search
+id rv_keywords
+id searchFragment
+id textView
+id textView2
+id textView3
+id toolbar
+id tv_date
+layout activity_keyword_test
+layout fragment_search
+layout item_keywords
+layout item_suggest
+navigation nav_search
